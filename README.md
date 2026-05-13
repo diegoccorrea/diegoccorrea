@@ -31,6 +31,7 @@ If you like my open-source projects, consider supporting me on [Ko-fi](https://k
 ## 📀 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=diegoccorrea&theme=dark)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/diegoccorrea?cardType=octocat&theme=monokai&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
