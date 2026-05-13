@@ -24,6 +24,8 @@ Hii! I'm a **Paper plugin developer** that enjoys building any kind of plugins f
 | [**miscolegio**](https://github.com/diegoccorrea/miscolegio) | Round-based quiz event plugin for Paper/Spigot 1.21+ with category levels (Kinder → University), wildcards, lives system, and automatic player elimination.
 | [**player-hide**](https://github.com/diegoccorrea/player-hide) | Paper 1.21+ plugin that anonymizes all players during events — replacing their skins and usernames with unique colored profiles.
 
+If you like my open-source projects and you're open to support me, consider supporting me on [Ko-fi](https://ko-fi.com/diegoccorrea)! It's completely optional though.
+
 ---
 
 ## 📀 GitHub Stats
