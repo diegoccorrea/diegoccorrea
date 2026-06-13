@@ -7,7 +7,7 @@ Hii! I'm a **Paper plugin developer** that enjoys building any kind of plugins f
 - 📖 I'm currently learning a lot more about plugin development, **each plugin is new knowledge**.
 - 🌱 I would like to learn more about **web development** and **mod development** (like Fabric or Forge).
 - 💬 Open to discuss about topics related to coding or to my open-source plugins, if you have any doubt or would like some advice, just ask me ;). My Discord is at the end of this README.
-- 🌎 **I speak Spanish natively and I can speak & understand English**, my pronunciation is not that good so I may have to repeat some things on VC after saying them. (╥﹏╥) (i prefer text because of that)
+- 🌎 **I speak Spanish natively and I can speak & understand English.**
 
 ---
 
