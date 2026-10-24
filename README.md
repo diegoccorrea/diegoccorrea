@@ -37,6 +37,5 @@ If you like my open-source projects, consider supporting me on [Ko-fi](https://k
 
 ## 🖨️ Contact
 
-- 💬 Discord: `putindeer`
 - ☕ Kofi: [@diegoccorrea](https://ko-fi.com/diegoccorrea)
 - 📧 Email: `diegocifcorrea@gmail.com`
